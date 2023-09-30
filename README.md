@@ -1,4 +1,4 @@
-# Recipe Search API https://recipesearchapi.web.app
+# Recipe Search API [https://recipesearchapi.web.app](https://recipe-search-api-6fc39.web.app/)
 #### The purpose of this project is to practice React.js and API fetching.
 
 #### This website uses the Recipe Search API from Edemam.com. This API has the data of tens of thousands of foods, simply search any type of dish you like and it will find you its ingredients.
